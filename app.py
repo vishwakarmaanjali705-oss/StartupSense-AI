@@ -23,8 +23,8 @@ st.set_page_config(
     layout="wide"
 )
 
-  from style import apply_style, hero, card
-  apply_style()
+from style import apply_style, hero, card
+apply_style()
 
 # ============================================================
 # CREATE DATABASE
